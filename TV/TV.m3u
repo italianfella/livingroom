@@ -1,0 +1,614 @@
+#EXTM3U
+#EXTINF:-1,BBC One HD
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1994.ts
+#EXTINF:-1,BBC One GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3580.ts
+#EXTINF:-1,BBC Four GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1993.ts
+#EXTINF:-1,BBC Two GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3581.ts
+#EXTINF:-1,CBeebies GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3582.ts
+#EXTINF:-1,BBC Red Button 1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1996.ts
+#EXTINF:-1,BBC News GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4020.ts
+#EXTINF:-1,ITV HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1995.ts
+#EXTINF:-1,ITV1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3576.ts
+#EXTINF:-1,ITV2 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3577.ts
+#EXTINF:-1,ITV3 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3578.ts
+#EXTINF:-1,ITV4 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3579.ts
+#EXTINF:-1,ITV Encore GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8076.ts
+#EXTINF:-1,ITVBe GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9587.ts
+#EXTINF:-1,ETV1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/10195.ts
+#EXTINF:-1,At the Races GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1997.ts
+#EXTINF:-1,Bloomberg GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8298.ts
+#EXTINF:-1,Boomerang GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1962.ts
+#EXTINF:-1,BoxNation GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4010.ts
+#EXTINF:-1,BT Sport 1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3586.ts
+#EXTINF:-1,BT Sport 2 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3588.ts
+#EXTINF:-1,BT Sport 1 HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1991.ts
+#EXTINF:-1,BT Sport 2 HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1992.ts
+#EXTINF:-1,BT Sport Europe GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1965.ts
+#EXTINF:-1,BT Sport EXTRA GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2682.ts
+#EXTINF:-1,Cartoon Network GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3967.ts
+#EXTINF:-1,CBS Action GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3944.ts
+#EXTINF:-1,CBS Drama GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3945.ts
+#EXTINF:-1,CBS Reality GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3946.ts
+#EXTINF:-1,Tiny Pop GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9898.ts
+#EXTINF:-1,5 USA GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2652.ts
+#EXTINF:-1,5 Star GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9908.ts
+#EXTINF:-1,Channel 4 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2681.ts
+#EXTINF:-1,Channel 5 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2680.ts
+#EXTINF:-1,Chelsea TV GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1990.ts
+#EXTINF:-1,Colors GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1988.ts
+#EXTINF:-1,CITV GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9588.ts
+#EXTINF:-1,3E GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3953.ts
+#EXTINF:-1,4Seven GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3961.ts
+#EXTINF:-1,Alibi GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3954.ts
+#EXTINF:-1,Animal Planet GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2683.ts
+#EXTINF:-1,Baby TV GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11425.ts
+#EXTINF:-1,Comedy Central GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3948.ts
+#EXTINF:-1,Comedy Central Extra GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2668.ts
+#EXTINF:-1,CNN GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3995.ts
+#EXTINF:-1,Dave GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1987.ts
+#EXTINF:-1,Dave ja vu GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11424.ts
+#EXTINF:-1,Discovery Channel GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1986.ts
+#EXTINF:-1,Discovery History GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1985.ts
+#EXTINF:-1,Discovery Investigation GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3982.ts
+#EXTINF:-1,Discovery Science GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2679.ts
+#EXTINF:-1,Discovery Science HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4069.ts
+#EXTINF:-1,Discovery Turbo GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3978.ts
+#EXTINF:-1,Discovery World GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2678.ts
+#EXTINF:-1,Disney Channel GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1984.ts
+#EXTINF:-1,Disney Junior GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3969.ts
+#EXTINF:-1,Disney XD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2675.ts
+#EXTINF:-1,DMAX GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1983.ts
+#EXTINF:-1,Drama GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3957.ts
+#EXTINF:-1,E! GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3966.ts
+#EXTINF:-1,E4 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2674.ts
+#EXTINF:-1,ESPN GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2673.ts
+#EXTINF:-1,Eurosport 1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3590.ts
+#EXTINF:-1,Eurosport 1 HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1980.ts
+#EXTINF:-1,Eurosport 2 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3591.ts
+#EXTINF:-1,Eurosport 2 HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1981.ts
+#EXTINF:-1,Film4 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1979.ts
+#EXTINF:-1,Food Network GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3991.ts
+#EXTINF:-1,FOX GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2656.ts
+#EXTINF:-1,Flava GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3565.ts
+#EXTINF:-1,FOX News GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11429.ts
+#EXTINF:-1,Gold GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1977.ts
+#EXTINF:-1,Good Food GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3990.ts
+#EXTINF:-1,H2 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3569.ts
+#EXTINF:-1,History GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3976.ts
+#EXTINF:-1,Home GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3993.ts
+#EXTINF:-1,Horror Channel GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3941.ts
+#EXTINF:-1,Liverpool TV GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3568.ts
+#EXTINF:-1,Motors TV GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4009.ts
+#EXTINF:-1,More4 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4000.ts
+#EXTINF:-1,Movies4Men GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1971.ts
+#EXTINF:-1,MTV GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2670.ts
+#EXTINF:-1,MUTV GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2655.ts
+#EXTINF:-1,National Geographic Channel GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3561.ts
+#EXTINF:-1,Nat Geo Wild GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1968.ts
+#EXTINF:-1,Nick Jr. GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2669.ts
+#EXTINF:-1,Pick GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3958.ts
+#EXTINF:-1,Premier Sports GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3584.ts
+#EXTINF:-1,Quest GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3959.ts
+#EXTINF:-1,Racing GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3585.ts
+#EXTINF:-1,Really GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3947.ts
+#EXTINF:-1,RTE One HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1966.ts
+#EXTINF:-1,RTE2 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1967.ts
+#EXTINF:-1,RT. Two GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11422.ts
+#EXTINF:-1,RT. One GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11421.ts
+#EXTINF:-1,RT. News Now GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11423.ts
+#EXTINF:-1,Real Lives GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11430.ts
+#EXTINF:-1,Sky 2 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3573.ts
+#EXTINF:-1,Setanta Sports GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3583.ts
+#EXTINF:-1,Sky 1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3571.ts
+#EXTINF:-1,Spike GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11428.ts
+#EXTINF:-1,Sky Arts 1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1963.ts
+#EXTINF:-1,Sky Atlantic GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3562.ts
+#EXTINF:-1,Sky Living GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3567.ts
+#EXTINF:-1,Sky Movies Action & Adventure GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3559.ts
+#EXTINF:-1,Sky Movies Action & Adventure HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1961.ts
+#EXTINF:-1,Sky Movies Comedy HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3563.ts
+#EXTINF:-1,Sky Movies Thriller GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3575.ts
+#EXTINF:-1,Sky Movies Crime & Thriller HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1955.ts
+#EXTINF:-1,Sky Movies Disney UK
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3564.ts
+#EXTINF:-1,Sky Movies Disney GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3927.ts
+#EXTINF:-1,Sky Movies Drama & Romance HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1960.ts
+#EXTINF:-1,Sky Movies Family GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3566.ts
+#EXTINF:-1,Sky Movies Family HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3926.ts
+#EXTINF:-1,Sky Movies Greats GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1959.ts
+#EXTINF:-1,Sky Movies Greats HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3925.ts
+#EXTINF:-1,Sky Movies Premiere HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1958.ts
+#EXTINF:-1,Sky Movies Sci-Fi & Horror HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1957.ts
+#EXTINF:-1,Sky Movies Showcase GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3923.ts
+#EXTINF:-1,Sky News GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3570.ts
+#EXTINF:-1,Sky Sports 1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3593.ts
+#EXTINF:-1,Sky Sports 1 HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5600.ts
+#EXTINF:-1,Sky Sports 2 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3595.ts
+#EXTINF:-1,Sky Sports 2 HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5601.ts
+#EXTINF:-1,Sky Sports 3 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3597.ts
+#EXTINF:-1,Sky Sports 3 HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3598.ts
+#EXTINF:-1,Sky Sports 4 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3599.ts
+#EXTINF:-1,Sky Sports 4 HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3600.ts
+#EXTINF:-1,Sky Sports 5 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3601.ts
+#EXTINF:-1,Sky Sports 5 HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4458.ts
+#EXTINF:-1,Sky Sports Box Office GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2684.ts
+#EXTINF:-1,Sky Sports F1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3602.ts
+#EXTINF:-1,Sky Sports F1 HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3603.ts
+#EXTINF:-1,Sky Sports News HD GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1954.ts
+#EXTINF:-1,Syfy GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3939.ts
+#EXTINF:-1,TV 3 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3574.ts
+#EXTINF:-1,TG4 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4005.ts
+#EXTINF:-1,TLC GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4027.ts
+#EXTINF:-1,True Movies 2 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2662.ts
+#EXTINF:-1,True Movies 1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2661.ts
+#EXTINF:-1,VH1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3943.ts
+#EXTINF:-1,Vivo 1 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1951.ts
+#EXTINF:-1,Vivo 2 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1952.ts
+#EXTINF:-1,Vivo 3 GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1953.ts
+#EXTINF:-1,UTV Ireland GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11426.ts
+#EXTINF:-1,W GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11427.ts
+#EXTINF:-1,Watch GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4014.ts
+#EXTINF:-1,Yesterday GB
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3962.ts
+
+#EXTINF:-1,Sky Disney Junior IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1706.ts
+#EXTINF:-1,Disney XD HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/7032.ts
+#EXTINF:-1,Frisbee IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/7031.ts
+#EXTINF:-1,Cartoonito IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/7030.ts
+#EXTINF:-1,Fox Life HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/7868.ts
+#EXTINF:-1,Fox Animation HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/7862.ts
+#EXTINF:-1,Videolina IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9007.ts
+#EXTINF:-1,Sky 3D IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9001.ts
+#EXTINF:-1,TV2000 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9002.ts
+#EXTINF:-1,Top Crime IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8241.ts
+#EXTINF:-1,TGCom24 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8238.ts
+#EXTINF:-1,TG Norba 24 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8997.ts
+#EXTINF:-1,Super! IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8991.ts
+#EXTINF:-1,Rai Yoyo IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8994.ts
+#EXTINF:-1,Rai Premium IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8999.ts
+#EXTINF:-1,Rai News 24 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8996.ts
+#EXTINF:-1,Rai Gulp IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8993.ts
+#EXTINF:-1,Caccia IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8984.ts
+#EXTINF:-1,Nuvolari IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9003.ts
+#EXTINF:-1,MTV Music IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9000.ts
+#EXTINF:-1,Mediasat Italia Due IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8240.ts
+#EXTINF:-1,Mediasat Extra IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8239.ts
+#EXTINF:-1,Canali 21 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8995.ts
+#EXTINF:-1,RAI 3 TGR FVG  IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8965.ts
+#EXTINF:-1,Rai Premium HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8992.ts
+#EXTINF:-1,Discovery Travel & Living HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8983.ts
+#EXTINF:-1,Gambero Rosso HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8982.ts
+#EXTINF:-1,Focus IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8981.ts
+#EXTINF:-1,SENATO  IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8966.ts
+#EXTINF:-1,Discovery Science HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8980.ts
+#EXTINF:-1,Crime&Investigation HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8979.ts
+#EXTINF:-1,Cartonitoo IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8242.ts
+#EXTINF:-1,Animal Planet HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8985.ts
+#EXTINF:-1,Alice IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8986.ts
+#EXTINF:-1,Sky Arte HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8987.ts
+#EXTINF:-1,Rai Scuola IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8998.ts
+#EXTINF:-1,La 5 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8988.ts
+#EXTINF:-1,Teleticino HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9004.ts
+#EXTINF:-1,M2 Music TV IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9005.ts
+#EXTINF:-1,Giallo IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/9006.ts
+#EXTINF:-1,Rai 1  IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1662.ts
+#EXTINF:-1,Rai 2 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1663.ts
+#EXTINF:-1,Rai 3  IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1664.ts
+#EXTINF:-1,Rai 4  IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1709.ts
+#EXTINF:-1,Rai 5 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3655.ts
+#EXTINF:-1,Sky Cinema Plus 24 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/7012.ts
+#EXTINF:-1,Sky Cinema Plus 1 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/7011.ts
+#EXTINF:-1,Sky Cinema Max HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1679.ts
+#EXTINF:-1,Sky Cinema Cult HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3635.ts
+#EXTINF:-1,Sky Cinema Hits HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4074.ts
+#EXTINF:-1,Sky Cinema Classic HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4076.ts
+#EXTINF:-1,Sky Cinema 1 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4077.ts
+#EXTINF:-1,Sky Cinema Passion HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2009.ts
+#EXTINF:-1,Sky Cinema Family HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2010.ts
+#EXTINF:-1,Sky Cinema Comedy HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2011.ts
+#EXTINF:-1,Sky Atlantic HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1682.ts
+#EXTINF:-1,RSI La 2 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5228.ts
+#EXTINF:-1,RSI La 1 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5229.ts
+#EXTINF:-1,Real Time IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5237.ts
+#EXTINF:-1,MTV8 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8235.ts
+#EXTINF:-1,M2O TV IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8233.ts
+#EXTINF:-1,My DeeJay IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8234.ts
+#EXTINF:-1,Radio Capital IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5238.ts
+#EXTINF:-1,Radio Italia TV IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5239.ts
+#EXTINF:-1,Radio 105 TV IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5240.ts
+#EXTINF:-1,LA7 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5233.ts
+#EXTINF:-1,Italia 1 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5234.ts
+#EXTINF:-1,Iris IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5222.ts
+#EXTINF:-1,DMAX IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5231.ts
+#EXTINF:-1,Disney Channel IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4377.ts
+#EXTINF:-1,Rai Movie  IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4108.ts
+#EXTINF:-1,Fox Comedy HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4082.ts
+#EXTINF:-1,Marcopolo IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4083.ts
+#EXTINF:-1,Nat Geo People HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4088.ts
+#EXTINF:-1,History HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4089.ts
+#EXTINF:-1,AXN HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4081.ts
+#EXTINF:-1,Boing IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3712.ts
+#EXTINF:-1,National Geographic HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3717.ts
+#EXTINF:-1,Fox HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3713.ts
+#EXTINF:-1,Nat Geo Wild HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3666.ts
+#EXTINF:-1,LA5 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3677.ts
+#EXTINF:-1,Discovery Channel HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3667.ts
+#EXTINF:-1,Sky Uno HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1681.ts
+#EXTINF:-1,Sky TG24 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1674.ts
+#EXTINF:-1,Mediaset Italia Due IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1697.ts
+#EXTINF:-1,Rete 4 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2067.ts
+#EXTINF:-1,Fox Crime HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1683.ts
+#EXTINF:-1,Cielo IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1671.ts
+#EXTINF:-1,Canale 5 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1666.ts
+#EXTINF:-1,Fox Sport HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5223.ts
+#EXTINF:-1,Super Tennis HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4084.ts
+#EXTINF:-1,Rai Sport 1 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/5230.ts
+#EXTINF:-1,Rai Sport 2 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3708.ts
+#EXTINF:-1,Sky Sport F1 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1691.ts
+#EXTINF:-1,Sky Sport MotoGP HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/3639.ts
+#EXTINF:-1,Sky Sport 24 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1686.ts
+#EXTINF:-1,Sky Sport 1 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1687.ts
+#EXTINF:-1,Sky Sport 2 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1688.ts
+#EXTINF:-1,Sky Sport 3 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1689.ts
+#EXTINF:-1,Inter Channel IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8977.ts
+#EXTINF:-1,Juventus Channel IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8975.ts
+#EXTINF:-1,Milan Channel IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8978.ts
+#EXTINF:-1,Roma Channel IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8976.ts
+#EXTINF:-1,Sky SuperCalcio HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1692.ts
+#EXTINF:-1,Sky Calcio 1 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1693.ts
+#EXTINF:-1,Sky Calcio 2 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1694.ts
+#EXTINF:-1,Sky Calcio 3 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8967.ts
+#EXTINF:-1,Sky Calcio 4 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8968.ts
+#EXTINF:-1,Sky Calcio 5 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8969.ts
+#EXTINF:-1,Sky Calcio 6 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8970.ts
+#EXTINF:-1,Sky Calcio 7 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8971.ts
+#EXTINF:-1,Sky Calcio 8 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8972.ts
+#EXTINF:-1,Sky Calcio 9 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/8973.ts
+#EXTINF:-1,Sky Primafila 1 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1998.ts
+#EXTINF:-1,Sky Primafila 2 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/1999.ts
+#EXTINF:-1,Sky Primafila 3 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2000.ts
+#EXTINF:-1,Sky Primafila 4 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2001.ts
+#EXTINF:-1,Sky Primafila 5 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2002.ts
+#EXTINF:-1,Sky Primafila 6 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2003.ts
+#EXTINF:-1,Sky Primafila 7 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2004.ts
+#EXTINF:-1,Sky Primafila 8 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2005.ts
+#EXTINF:-1,Sky Primafila 9 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2006.ts
+#EXTINF:-1,Sky Primafila 10 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/2007.ts
+#EXTINF:-1,Premium Cartoon Network IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6911.ts
+#EXTINF:-1,Premium Cinema 1 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6897.ts
+#EXTINF:-1,Premium Cinema 2 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6898.ts
+#EXTINF:-1,Premium Cinema 1 Plus 24 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6900.ts
+#EXTINF:-1,Premium Cinema 2 Plus 24 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6899.ts
+#EXTINF:-1,Premium Cinema Action HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6905.ts
+#EXTINF:-1,Premium Cinema Action Plus 24 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6903.ts
+#EXTINF:-1,Premium Cinema Comedy IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6902.ts
+#EXTINF:-1,Premium Cinema Emotion IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6901.ts
+#EXTINF:-1,Premium Cinema Energy IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6904.ts
+#EXTINF:-1,Premium Cinema Joi IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6908.ts
+#EXTINF:-1,Premium Cinema Joi Plus 24 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11492.ts
+#EXTINF:-1,Premium Crime HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6909.ts
+#EXTINF:-1,Premium Crime Plus 24 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6910.ts
+#EXTINF:-1,Premium Stories IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11493.ts
+#EXTINF:-1,Premium Stories Plus 24 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11494.ts
+#EXTINF:-1,Premium Studio Universal IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6906.ts
+#EXTINF:-1,Premium Disney Plus 1 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6913.ts
+#EXTINF:-1,Premium Disney Junior IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6912.ts
+#EXTINF:-1,Premium Discovery World IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6914.ts
+#EXTINF:-1,Premium Eurosport 1 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4093.ts
+#EXTINF:-1,Premium Eurosport 2 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/4094.ts
+#EXTINF:-1,Premium Sport IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11498.ts
+#EXTINF:-1,Premium Sport HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6896.ts
+#EXTINF:-1,Premium Sport 2 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6894.ts
+#EXTINF:-1,Premium Sport 2 HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11497.ts
+#EXTINF:-1,Premium Sport News HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6907.ts
+#EXTINF:-1,Premium Calcio HD IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6916.ts
+#EXTINF:-1,Premium Calcio 1 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6917.ts
+#EXTINF:-1,Premium Calcio 2 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6919.ts
+#EXTINF:-1,Premium Calcio 3 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6921.ts
+#EXTINF:-1,Premium Calcio 4 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6922.ts
+#EXTINF:-1,Premium Calcio 5 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6923.ts
+#EXTINF:-1,Premium Calcio 6 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6924.ts
+#EXTINF:-1,Premium Calcio 7 IT
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/6925.ts
