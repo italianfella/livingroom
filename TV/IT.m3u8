@@ -1,0 +1,198 @@
+#EXTM3U
+
+#EXTINF:0, tvg-id="RAIUno.it" tvg-logo="rai_1_hd.png" tvg-name="IT: Rai 1 HD"  group-title="Italy",IT: Rai 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1662.m3u8
+#EXTINF:0, tvg-id="RAIDue.it" tvg-logo="rai_2_hd.png" tvg-name="IT: Rai 2 HD"  group-title="Italy",IT: Rai 2 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1663.m3u8
+#EXTINF:0, tvg-id="RAITre.it" tvg-logo="rai_3_hd.png" tvg-name="IT: Rai 3 HD"  group-title="Italy",IT: Rai 3 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1664.m3u8
+#EXTINF:0, tvg-id="RAI4.it" tvg-logo="rai_4.png" tvg-name="IT: Rai 4"  group-title="Italy",IT: Rai 4
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1709.m3u8
+#EXTINF:0, tvg-id="RAI5.it" tvg-logo="rai_5.png" tvg-name="IT: Rai 5"  group-title="Italy",IT: Rai 5
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3655.m3u8
+#EXTINF:0, tvg-id="Rete4.it" tvg-logo="mediaset_rete4.png" tvg-name="IT: Rete 4 HD"  group-title="Italy",IT: Rete 4 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2067.m3u8
+#EXTINF:0, tvg-id=“Italia1.it" tvg-logo="mediaset_italia1.png" tvg-name="IT: Italia 1”  group-title="Italy",IT: Italia 1
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/5234.m3u8
+#EXTINF:0, tvg-id="Canale5.it" tvg-logo="mediaset_canale5.png" tvg-name="IT: Canale 5 HD"  group-title="Italy",IT: Canale 5 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1666.m3u8
+#EXTINF:0, tvg-id="SKYUno.it" tvg-logo="sky_it_uno_plus1.png" tvg-name="IT: Sky Uno HD"  group-title="Italy",IT: Sky Uno HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1681.m3u8
+tvg-logo="sky_it_atlantic_hd.png" tvg-name="IT: Sky Atlantic HD"  group-title="Italy",IT: Sky Atlantic HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1682.m3u8
+#EXTINF:0, tvg-id="Italia2.it" tvg-logo="mediaset_italia2.png" tvg-name="IT: Mediasat Italia Due"  group-title="Italy",IT: Mediasat Italia Due
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8240.m3u8
+#EXTINF:0, tvg-id="LA5.it" tvg-logo="mediaset_la_5.png" tvg-name="IT: LA5"  group-title="Italy",IT: LA5
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3677.m3u8
+#EXTINF:0, tvg-id="LA7.it" tvg-logo="mediaset_la_7.png" tvg-name="IT: LA7”  group-title="Italy",IT: LA7
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/5233.m3u8
+#EXTINF:0, tvg-id="SkyArte.it" tvg-logo="sky_it_arte_hd.png" tvg-name="IT: Sky Arte HD"  group-title="Italy",IT: Sky Arte HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8987.m3u8
+#EXTINF:0, tvg-id="AXN.it" tvg-logo="axn_global_hd.png" tvg-name="IT: AXN HD"  group-title="Italy",IT: AXN HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4081.m3u8
+#EXTINF:0, tvg-id="Fox.it" tvg-logo="fox_hd_lam.png" tvg-name="IT: Fox HD"  group-title="Italy",IT: Fox HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3713.m3u8
+#EXTINF:0, tvg-id="FoxComedy.it" tvg-logo="fox_comedy_it.png" tvg-name="IT: Fox Comedy HD"  group-title="Italy",IT: Fox Comedy HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4082.m3u8
+#EXTINF:0, tvg-id="FoxCrime.it" tvg-logo="fox_crime_global.png" tvg-name="IT: Fox Crime HD"  group-title="Italy",IT: Fox Crime HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1683.m3u8
+#EXTINF:0, tvg-id="RaiNews.it" tvg-logo="rai_news_24.png" tvg-name="IT: Rai News 24"  group-title="Italy",IT: Rai News 24
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8996.m3u8
+#EXTINF:0, tvg-id="SkyTG24DTT.it" tvg-logo="sky_it_tg24.png" tvg-name="IT: Sky TG 24"  group-title="Italy",IT: Sky TG 24
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1674.m3u8
+#EXTINF:0, tvg-id="CinemaComedyHD.it" tvg-logo="sky_it_cinema_comedy_hd.png" tvg-name="IT: Sky Cinema Comedy HD"  group-title="Italy",IT: Sky Cinema Comedy HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2011.m3u8
+#EXTINF:0, tvg-id="CinemaMax.it" tvg-logo="sky_it_cinema_max_hd.png" tvg-name="IT: Sky Cinema Max HD"  group-title="Italy",IT: Sky Cinema Max HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1679.m3u8
+#EXTINF:0, tvg-id="CinemaFamily.it" tvg-logo="sky_it_cinema_family_hd.png" tvg-name="IT: Sky Cinema Family HD"  group-title="Italy",IT: Sky Cinema Family HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2010.m3u8
+#EXTINF:0, tvg-id="CinemaPassionHD.it" tvg-logo="sky_it_cinema_passion_hd.png" tvg-name="IT: Sky Cinema Passion HD"  group-title="Italy",IT: Sky Cinema Passion HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2009.m3u8
+#EXTINF:0, tvg-id="SKYCinema1.it" tvg-logo="sky_it_cinema1_hd.png" tvg-name="IT: Sky Cinema 1 HD"  group-title="Italy",IT: Sky Cinema 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4077.m3u8
+#EXTINF:0, tvg-id="CinemaClassics.it" tvg-logo="sky_it_cinema_classics_hd.png" tvg-name="IT: Sky Cinema Classic HD"  group-title="Italy",IT: Sky Cinema Classic HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4076.m3u8
+#EXTINF:0, tvg-id="CinemaHits.it" tvg-logo="sky_it_cinema_hits.png" tvg-name="IT: Sky Cinema Hits HD"  group-title="Italy",IT: Sky Cinema Hits HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4074.m3u8
+#EXTINF:0, tvg-id="RaisatCinema.it" tvg-logo="rai_movie.png" tvg-name="IT: Rai movie"  group-title="Italy",IT: Rai movie
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4108.m3u8
+#EXTINF:0, tvg-id="RaisatPremium.it" tvg-logo="rai_premium.png" tvg-name="IT: Rai Premium"  group-title="Italy",IT: Rai Premium
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8999.m3u8
+#EXTINF:0, tvg-id="Cult.it" tvg-logo="sky_it_cinema_cult_hd.png" tvg-name="IT: Cinema Cult HD"  group-title="Italy",IT: Cinema Cult HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3635.m3u8
+#EXTINF:0, tvg-id="PremiumCinema2Plus24.it" tvg-logo="mediaset_premium_cinema.png" tvg-name="IT: Premium Cinema 2 Plus 24 HD"  group-title="Italy",IT: Premium Cinema 2 Plus 24 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1676.m3u8
+#EXTINF:0, tvg-id="PremiumCinema2.it" tvg-logo="mediaset_premium_cinema.png" tvg-name="IT: Premium Cinema 2 HD"  group-title="Italy",IT: Premium Cinema 2 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4288.m3u8
+#EXTINF:0, tvg-id="PremiumCinema.it" tvg-logo="mediaset_premium_cinema.png" tvg-name="IT: Premium Cinema"  group-title="Italy",IT: Premium Cinema
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1701.m3u8
+#EXTINF:0, tvg-id="PremiumCinemaComedy.it" tvg-logo="mediaset_premium_cinema.png" tvg-name="IT: Premium Comedy"  group-title="Italy",IT: Premium Comedy
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1702.m3u8
+#EXTINF:0, tvg-id="PremiumCrime.it" tvg-logo="mediaset_premium_crime.png" tvg-name="IT: Premium Crime"  group-title="Italy",IT: Premium Crime
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1703.m3u8
+#EXTINF:0, tvg-id="StudioUniversal.it" tvg-logo="studio_universal_global.png" tvg-name="IT: Premium Studio Universal"  group-title="Italy",IT: Premium Studio Universal
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1712.m3u8
+#EXTINF:0, tvg-id="PremiumCinemaEmotion.it" tvg-logo="mediaset_premium_cinema_emotion.png" tvg-name="IT: Premium Emotion"  group-title="Italy",IT: Premium Emotion
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1707.m3u8
+#EXTINF:0, tvg-id="PremiumCinemaEnergy.it" tvg-logo="mediaset_premium_cinema_energy.png" tvg-name="IT: Premium Energy"  group-title="Italy",IT: Premium Energy
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1708.m3u8
+#EXTINF:0, tvg-id="PremiumCinemaPlus24.it" tvg-logo="mediaset_premium_cinema.png" tvg-name="IT: Premium Cinema Plus 24"  group-title="Italy",IT: Premium Cinema Plus 24
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4383.m3u8
+#EXTINF:0, tvg-id="PremiumAction.it" tvg-logo="mediaset_premium_action.png" tvg-name="IT: Premium Action HD"  group-title="Italy",IT: Premium Action HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4103.m3u8
+#EXTINF:0, tvg-id="Joi.it" tvg-logo="mediaset_joi.png" tvg-name="IT: Premium Joi"  group-title="Italy",IT: Premium Joi
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4091.m3u8
+#EXTINF:0, tvg-id="Primafila1.it" tvg-logo="sky_it_primafila.png" tvg-name="IT: Sky Primafila 1 HD"  group-title="Italy",IT: Sky Primafila 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1998.m3u8
+#EXTINF:0, tvg-id="Primafila2.it" tvg-logo="sky_it_primafila.png" tvg-name="IT: Sky Primafila 2 HD"  group-title="Italy",IT: Sky Primafila 2 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1999.m3u8
+#EXTINF:0, tvg-id="Primafila3.it" tvg-logo="sky_it_primafila.png" tvg-name="IT: Sky Primafila 3 HD"  group-title="Italy",IT: Sky Primafila 3 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2000.m3u8
+#EXTINF:0, tvg-id="Primafila4.it" tvg-logo="sky_it_primafila.png" tvg-name="IT: Sky Primafila 4 HD"  group-title="Italy",IT: Sky Primafila 4 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2001.m3u8
+#EXTINF:0, tvg-id="Primafila5.it" tvg-logo="sky_it_primafila.png" tvg-name="IT: Sky Primafila 5 HD"  group-title="Italy",IT: Sky Primafila 5 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2002.m3u8
+#EXTINF:0, tvg-id="Primafila6.it" tvg-logo="sky_it_primafila.png" tvg-name="IT: Sky Primafila 6 HD"  group-title="Italy",IT: Sky Primafila 6 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2003.m3u8
+#EXTINF:0, tvg-id="Primafila7.it" tvg-logo="sky_it_primafila.png" tvg-name="IT: Sky Primafila 7 HD"  group-title="Italy",IT: Sky Primafila 7 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2004.m3u8
+#EXTINF:0, tvg-id="Primafila8.it" tvg-logo="sky_it_primafila.png" tvg-name="IT: Sky Primafila 8 HD"  group-title="Italy",IT: Sky Primafila 8 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2005.m3u8
+#EXTINF:0, tvg-id="Primafila9.it" tvg-logo="sky_it_primafila.png" tvg-name="IT: Sky Primafila 9 HD"  group-title="Italy",IT: Sky Primafila 9 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2006.m3u8
+#EXTINF:0, tvg-id="Primafila10.it" tvg-logo="sky_it_primafila.png" tvg-name="IT: Sky Primafila 10 HD"  group-title="Italy",IT: Sky Primafila 10 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2007.m3u8
+#EXTINF:0, tvg-id="Primafila11.it" tvg-logo="sky_it_primafila.png" tvg-name="IT: Sky Primafila 11 HD"  group-title="Italy",IT: Sky Primafila 11 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2008.m3u8
+#EXTINF:0, tvg-id="SKYSport24.it" tvg-logo="sky_it_sport24.png" tvg-name="IT: Sky Sport 24 HD"  group-title="Italy",IT: Sky Sport 24 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1686.m3u8
+#EXTINF:0, tvg-id="SKYSport1.it" tvg-logo="sky_it_sport1_hd.png" tvg-name="IT: Sky Sport 1 HD"  group-title="Italy",IT: Sky Sport 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1687.m3u8
+#EXTINF:0, tvg-id="SKYSport2.it" tvg-logo="sky_it_sport2_hd.png" tvg-name="IT: Sky Sport 2 HD"  group-title="Italy",IT: Sky Sport 2 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1688.m3u8
+#EXTINF:0, tvg-id="SKYSport3.it" tvg-logo="sky_it_sport3_hd.png" tvg-name="IT: Sky Sport 3 HD"  group-title="Italy",IT: Sky Sport 3 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1689.m3u8
+#EXTINF:0, tvg-id="SkySupercalcio.it" tvg-logo="sky_it_super_calcio_hd.png" tvg-name="IT: Sky SuperCalcio HD"  group-title="Italy",IT: Sky SuperCalcio HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1692.m3u8
+#EXTINF:0, tvg-id="PremiumCalcio.it" tvg-logo="mediaset_premium_calcio_hd.png" tvg-name="IT: Premium Calcio HD"  group-title="Italy",IT: Premium Calcio HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/5247.m3u8
+#EXTINF:0, tvg-id="PremiumCalcio1.it" tvg-logo="mediaset_premium_calcio_hd.png" tvg-name="IT: Premium Calcio 1 HD"  group-title="Italy",IT: Premium Calcio 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1699.m3u8
+#EXTINF:0, tvg-id="PremiumCalcio2.it" tvg-logo="mediaset_premium_calcio.png" tvg-name="IT: Premium Calcio 2"  group-title="Italy",IT: Premium Calcio 2
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3719.m3u8
+#EXTINF:0, tvg-id="PremiumCalcio3.it" tvg-logo="mediaset_premium_calcio.png" tvg-name="IT: Premium Calcio 3"  group-title="Italy",IT: Premium Calcio 3
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3720.m3u8
+#EXTINF:0, tvg-id="SkyCalcio1.it" tvg-logo="sky_it_calcio.png" tvg-name="IT: Sky Calcio 1 HD"  group-title="Italy",IT: Sky Calcio 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1693.m3u8
+#EXTINF:0, tvg-id="SkyCalcio2.it" tvg-logo="sky_it_calcio.png" tvg-name="IT: Sky Calcio 2 HD"  group-title="Italy",IT: Sky Calcio 2 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1694.m3u8
+#EXTINF:0, tvg-id="SkyCalcio3.it" tvg-logo="sky_it_calcio.png" tvg-name="IT: Sky Calcio 3 HD"  group-title="Italy",IT: Sky Calcio 3 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8967.m3u8
+#EXTINF:0, tvg-id="SkyCalcio4.it" tvg-logo="sky_it_calcio.png" tvg-name="IT: Sky Calcio 4 HD"  group-title="Italy",IT: Sky Calcio 4 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8968.m3u8
+#EXTINF:0, tvg-id="SkyCalcio5.it" tvg-logo="sky_it_calcio.png" tvg-name="IT: Sky Calcio 5 HD"  group-title="Italy",IT: Sky Calcio 5 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8969.m3u8
+#EXTINF:0, tvg-id="SkyCalcio6.it" tvg-logo="sky_it_calcio.png" tvg-name="IT: Sky Calcio 6 HD"  group-title="Italy",IT: Sky Calcio 6 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8970.m3u8
+#EXTINF:0, tvg-id="SkyCalcio7.it" tvg-logo="sky_it_calcio.png" tvg-name="IT: SKY Calcio 7 HD"  group-title="Italy",IT: SKY Calcio 7 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8971.m3u8
+#EXTINF:0, tvg-id="SkyCalcio8.it" tvg-logo="sky_it_calcio.png" tvg-name="IT: SKY Calcio 8 HD"  group-title="Italy",IT: SKY Calcio 8 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8972.m3u8
+#EXTINF:0, tvg-id="SkyCalcio9.it" tvg-logo="sky_it_calcio.png" tvg-name="IT: SKY Calcio 9 HD"  group-title="Italy",IT: SKY Calcio 9 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8973.m3u8
+#EXTINF:0, tvg-id="Eurosport.it" tvg-logo="eurosport_fr_1_hd.png" tvg-name="IT: Premium EuroSport 1 HD"  group-title="Italy",IT: Premium EuroSport 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4093.m3u8
+#EXTINF:0, tvg-id="Eurosport2.it" tvg-logo="eurosport_fr_2_hd.png" tvg-name="IT: Premium EuroSport 2 HD"  group-title="Italy",IT: Premium EuroSport 2 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4094.m3u8
+#EXTINF:0, tvg-id="SkySportF1.it" tvg-logo="sky_it_sport_f1_hd.png" tvg-name="IT: Sky Sport F1 HD"  group-title="Italy",IT: Sky Sport F1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1691.m3u8
+#EXTINF:0, tvg-id="SkySportMotoGP.it" tvg-logo="sky_it_sport_moto_gp_hd.png" tvg-name="IT: Sky Sport MotoGP HD"  group-title="Italy",IT: Sky Sport MotoGP HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3639.m3u8
+#EXTINF:0, tvg-id="SuperTennis.it" tvg-logo="super_tennis.png" tvg-name="IT: Super Tennis HD"  group-title="Italy",IT: Super Tennis HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4084.m3u8
+#EXTINF:0, tvg-id="RaiSport1.it" tvg-logo="rai_sport_1.png" tvg-name="IT: Rai Sport 1”  group-title="Italy",IT: Rai Sport 1
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/5230.m3u8
+#EXTINF:0, tvg-id="RaiSport2.it" tvg-logo="rai_sport_2.png" tvg-name="IT: Rai Sport 2"  group-title="Italy",IT: Rai Sport 2
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3708.m3u8
+#EXTINF:0, tvg-id="GamberoRosso.it" tvg-logo="gambero_rosso.png" tvg-name="IT: Gambero Rosso HD"  group-title="Italy",IT: Gambero Rosso HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8982.m3u8
+#EXTINF:0, tvg-id="AnimalPlanet.it" tvg-logo="animal_planet_us.png" tvg-name="IT: Animal Planet"  group-title="Italy",IT: Animal Planet
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8985.m3u8
+#EXTINF:0, tvg-id="DiscoveryWorld.it" tvg-logo="discovery_hd_world_ne_asia.png" tvg-name="IT: Premium Discovery World"  group-title="Italy",IT: Premium Discovery World
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1704.m3u8
+#EXTINF:0, tvg-id="History.it" tvg-logo="history_hd.png" tvg-name="IT: History HD"  group-title="Italy",IT: History HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4089.m3u8
+#EXTINF:0, tvg-id="NatGeoPeople.it" tvg-logo="nat_geo_people_us.png" tvg-name="IT: Nat Geo People"  group-title="Italy",IT: Nat Geo People
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4088.m3u8
+#EXTINF:0, tvg-id="NationalGeo.it" tvg-logo="nat_geo_us_hd.png" tvg-name="IT: National Geographic HD"  group-title="Italy",IT: National Geographic HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3717.m3u8
+#EXTINF:0, tvg-id="Marcopolo.it" tvg-logo="marcopolo_tv_it.png" tvg-name="IT: Marco Polo"  group-title="Italy",IT: Marco Polo
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4083.m3u8
+#EXTINF:0, tvg-id="DisneyChannel.it" tvg-logo="discovery_global_us.png" tvg-name="IT: Discovery Channel"  group-title="Italy",IT: Discovery Channel
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3667.m3u8
+#EXTINF:0, tvg-id="NatGeoWild.it" tvg-logo="nat_geo_wild_us.png" tvg-name="IT: Nat Geo Wild HD"  group-title="Italy",IT: Nat Geo Wild HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3666.m3u8
+#EXTINF:0, tvg-id="CrimeInvestigation.it" tvg-logo="crime_investigation_network_it.png" tvg-name="IT: CI Crime Investigation HD"  group-title="Italy",IT: CI Crime Investigation HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8979.m3u8
+#EXTINF:0, tvg-id="DiscoverySci.it" tvg-logo="discovery_science_global_hd.png" tvg-name="IT: Discovery Sci HD"  group-title="Italy",IT: Discovery Sci HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8980.m3u8
+#EXTINF:0, tvg-id="CartoonNetwork.it" tvg-logo="cartoon_network_global.png" tvg-name="IT: Premium Cartoon Network"  group-title="Italy",IT: Premium Cartoon Network
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1700.m3u8
+#EXTINF:0, tvg-id="DisneyChannel.it" tvg-logo="disney_channel_global.png" tvg-name="IT: Premium Disney Channel"  group-title="Italy",IT: Premium Disney Channel
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1705.m3u8
+#EXTINF:0, tvg-id="ToonDisney.it" tvg-logo="disney_junior_us.png" tvg-name="IT: Premium Disney Junior"  group-title="Italy",IT: Premium Disney Junior
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1706.m3u8
+#EXTINF:0, tvg-id="DisneyXD.it" tvg-logo="disney_xd_us.png" tvg-name="IT: Disney XD"  group-title="Italy",IT: Disney XD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4377.m3u8
+#EXTINF:0, tvg-id="RAIYoyo.it" tvg-logo="rai_yoyo.png" tvg-name="IT: Rai Yoyo"  group-title="Italy",IT: Rai Yoyo
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8994.m3u8
+#EXTINF:0, tvg-id="Boing.it" tvg-logo="boing_it.png" tvg-name="IT: Boing"  group-title="Italy",IT: Boing
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3712.m3u8
+#EXTINF:0, tvg-id="Cartoonito.it" tvg-logo="cartoonito_us.png" tvg-name="IT: Cartonitoo"  group-title="Italy",IT: Cartonitoo
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8242.m3u8
+#EXTINF:0, tvg-id="CartoonNetwork.it" tvg-logo="cartoon_network_global.png" tvg-name="IT: Cartoon Network"  group-title="Italy",IT: Cartoon Network
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8990.m3u8
+#EXTINF:0, tvg-id="RAIGulp.it" tvg-logo="rai_gulp.png" tvg-name="IT: Rai Gulp"  group-title="Italy",IT: Rai Gulp
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/8993.m3u8
+#EXTINF:0, tvg-id="MTV.it" tvg-logo="mtv_us.png" tvg-name="IT: Mtv IT"  group-title="Italy",IT: Mtv IT
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/9000.m3u8

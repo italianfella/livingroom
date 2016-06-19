@@ -1,0 +1,244 @@
+#EXTM3U
+
+#EXTINF:0, tvg-id="rte1.rte.ie" tvg-logo="rte_one.png" tvg-name="GB: RTE 1 HD"  group-title="United Kingdom",GB: RTE 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1966.m3u8
+
+#EXTINF:0, tvg-id="rte2.rte.ie" tvg-logo="rte_2_ie.png" tvg-name="GB: RTE 2 HD"  group-title="United Kingdom",GB: RTE 2 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1967.m3u8
+
+#EXTINF:0, tvg-id="BBCOneHD.uk" tvg-logo="bbc_one_hd.png" tvg-name="GB: BBC 1 HD"  group-title="United Kingdom",GB: BBC 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1993.m3u8
+
+#EXTINF:0, tvg-id="BBC2.uk" tvg-logo="bbc_two_uk_hd.png" tvg-name="GB: BBC 2 HD"  group-title="United Kingdom",GB: BBC 2 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1994.m3u8
+
+#EXTINF:0, tvg-id="BBC3.uk" tvg-logo="bbc_three.png" tvg-name="GB: BBC 3 HD"  group-title="United Kingdom",GB: BBC 3 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1995.m3u8
+
+#EXTINF:0, tvg-id="BBC4.uk" tvg-logo="bbc_four_uk_hd.png" tvg-name="GB: BBC 4 HD"  group-title="United Kingdom",GB: BBC 4 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1996.m3u8
+
+#EXTINF:0, tvg-id="ITV1London.uk" tvg-logo="itv_uk.png" tvg-name="GB: ITV 1"  group-title="United Kingdom",GB: ITV 1
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3576.m3u8
+
+#EXTINF:0, tvg-id="ITV2.uk" tvg-logo="itv2.png" tvg-name="GB: ITV 2"  group-title="United Kingdom",GB: ITV 2
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3577.m3u8
+
+#EXTINF:0, tvg-id="ITV3.uk" tvg-logo="itv3.png" tvg-name="GB: ITV 3"  group-title="United Kingdom",GB: ITV 3
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3578.m3u8
+
+#EXTINF:0, tvg-id="ITV4.uk" tvg-logo="itv4.png" tvg-name="GB: ITV 4"  group-title="United Kingdom",GB: ITV 4
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3579.m3u8
+
+#EXTINF:0, tvg-id="Sky1.uk" tvg-logo="sky_uk_1_ie.png" tvg-name="GB: Sky One"  group-title="United Kingdom",GB: Sky One
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3571.m3u8
+
+#EXTINF:0, tvg-id="Sky2.uk" tvg-logo="sky_uk_2_ie.png" tvg-name="GB: Sky Two"  group-title="United Kingdom",GB: Sky Two
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3573.m3u8
+
+#EXTINF:0, tvg-id="3e.rte.ie" tvg-logo="3e_ie.png" tvg-name="GB: 3E"  group-title="United Kingdom",GB: 3E
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3953.m3u8
+
+#EXTINF:0, tvg-id="More4.uk" tvg-logo="channel4_more4_ie.png" tvg-name="GB: More4"  group-title="United Kingdom",GB: More4
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4000.m3u8
+
+#EXTINF:0, tvg-id="Channel4.uk" tvg-logo="channel4_uk.png" tvg-name="GB: Channel 4"  group-title="United Kingdom",GB: Channel 4
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2681.m3u8
+
+#EXTINF:0, tvg-id="SCIFI.uk" tvg-logo="syfy_uk.png" tvg-name="GB: Sy-Fy"  group-title="United Kingdom",GB: Sy-Fy
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3939.m3u8
+
+#EXTINF:0, tvg-id="Channel5.uk" tvg-logo="channel5_uk.png" tvg-name="GB: Five"  group-title="United Kingdom",GB: Five
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1978.m3u8
+
+#EXTINF:0, tvg-id="Channel5.uk" tvg-logo="channel5_uk.png" tvg-name="GB: Channel 5"  group-title="United Kingdom",GB: Channel 5
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2680.m3u8
+
+#EXTINF:0, tvg-id="E4.uk" tvg-logo="e4_ie.png" tvg-name="GB: E4"  group-title="United Kingdom",GB: E4
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2674.m3u8
+
+#EXTINF:0, tvg-id="E.uk" tvg-logo="e_eu.png" tvg-name="GB: E!"  group-title="United Kingdom",GB: E!
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3966.m3u8
+
+#EXTINF:0, tvg-id="FiveUSA.uk" tvg-logo="channel5_usa.png" tvg-name="GB: 5 USA"  group-title="United Kingdom",GB: 5 USA
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2652.m3u8
+
+#EXTINF:0, tvg-id="ComedyCentral.uk" tvg-logo="comedy_central_us.png" tvg-name="GB: Comedy Central"  group-title="United Kingdom",GB: Comedy Central
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3948.m3u8
+
+#EXTINF:0, tvg-id="Film4.uk" tvg-logo="film4.png" tvg-name="GB: Film 4"  group-title="United Kingdom",GB: Film 4
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1979.m3u8
+
+#EXTINF:0, tvg-id="SkyMoviesDisney.uk" tvg-logo="sky_uk_movies_disney_hd.png" tvg-name="GB: Sky Movies Disney HD"  group-title="United Kingdom",GB: Sky Movies Disney HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3927.m3u8
+
+#EXTINF:0, tvg-id="SkyMoviesFamily.uk" tvg-logo="sky_uk_movies_family.png" tvg-name="GB: Sky Movies Family HD"  group-title="United Kingdom",GB: Sky Movies Family HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3926.m3u8
+
+#EXTINF:0, tvg-id="SkyShowcase.uk" tvg-logo="sky_uk_movies_showcase.png" tvg-name="GB: Sky Movies ShowCase"  group-title="United Kingdom",GB: Sky Movies ShowCase
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3923.m3u8
+
+#EXTINF:0, tvg-id="SkyMoviesModernGreats.uk" tvg-logo="sky_uk_movies_greats.png" tvg-name="GB: Sky Movies Modern Great HD"  group-title="United Kingdom",GB: Sky Movies Modern Great HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3925.m3u8
+
+#EXTINF:0, tvg-id="SkyMoviesActionThriller.uk" tvg-logo="sky_uk_movies_crime_thriller.png" tvg-name="GB: Sky Movies Thriller HD"  group-title="United Kingdom",GB: Sky Movies Thriller HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1955.m3u8
+
+#EXTINF:0, tvg-id="SkySciFiHorror.uk" tvg-logo="sky_uk_movies_scifi_horror.png" tvg-name="GB: Sky Movies Sci-Fi HD"  group-title="United Kingdom",GB: Sky Movies Sci-Fi HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1957.m3u8
+
+#EXTINF:0, tvg-id="SkyMoviesPremiere.uk" tvg-logo="sky_uk_movies_premiere.png" tvg-name="GB: Sky Movies Premiere HD"  group-title="United Kingdom",GB: Sky Movies Premiere HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1958.m3u8
+
+#EXTINF:0, tvg-id="SkyMoviesDrama.uk" tvg-logo="sky_uk_movies_drama_romance.png" tvg-name="GB: Sky Movies Drama HD"  group-title="United Kingdom",GB: Sky Movies Drama HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1960.m3u8
+
+#EXTINF:0, tvg-id="SkyMoviesActionThriller.uk" tvg-logo="sky_uk_movies_action_adventure.png" tvg-name="GB: Sky Movies Action HD"  group-title="United Kingdom",GB: Sky Movies Action HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1961.m3u8
+
+#EXTINF:0, tvg-id="GoodFood.uk" tvg-logo="good_food_uktv.png" tvg-name="GB: Good Food"  group-title="United Kingdom",GB: Good Food
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3990.m3u8
+
+#EXTINF:0, tvg-id="FoodNetwork.uk" tvg-logo="food_network_uk.png" tvg-name="GB: Food Network"  group-title="United Kingdom",GB: Food Network
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3991.m3u8
+
+#EXTINF:0, tvg-id="BBCWorldNews.nws" tvg-logo="bbc_news.png" tvg-name="GB: BBC NEWS SD/HD"  group-title="United Kingdom",GB: BBC NEWS SD/HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4020.m3u8
+
+#EXTINF:0, tvg-id="SkyNews.uk" tvg-logo="sky_uk_news.png" tvg-name="GB: Sky News"  group-title="United Kingdom",GB: Sky News
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3570.m3u8
+
+#EXTINF:0, tvg-id="FX.uk" tvg-logo="Logo N/A" tvg-name="GB: Fox"  group-title="United Kingdom",GB: Fox
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2656.m3u8
+
+#EXTINF:0, tvg-id="SkySportsNews.uk" tvg-logo="sky_uk_sports_news_hq.png" tvg-name="GB: Sky Sports News HD"  group-title="United Kingdom",GB: Sky Sports News HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1954.m3u8
+
+#EXTINF:0, tvg-id="SkySports1.uk" tvg-logo="sky_uk_sports1_in_pubs_hd.png" tvg-name="GB: SKY SPORT 1 HD"  group-title="United Kingdom",GB: SKY SPORT 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/5600.m3u8
+
+#EXTINF:0, tvg-id="SkySports2.uk" tvg-logo="sky_uk_sports2_hd.png" tvg-name="GB: SKY SPORT 2 HD"  group-title="United Kingdom",GB: SKY SPORT 2 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/5601.m3u8
+
+#EXTINF:0, tvg-id="SkySports3.uk" tvg-logo="sky_uk_sports3_hd.png" tvg-name="GB: Sky Sport 3 HD"  group-title="United Kingdom",GB: Sky Sport 3 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3598.m3u8
+
+#EXTINF:0, tvg-id="SkySports4.uk" tvg-logo="sky_uk_sports4_hd.png" tvg-name="GB: Sky Sport 4 HD"  group-title="United Kingdom",GB: Sky Sport 4 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3600.m3u8
+
+#EXTINF:0, tvg-id="SkySports5.uk" tvg-logo="sky_uk_sports5.png" tvg-name="GB: SKY SPORT 5 HD"  group-title="United Kingdom",GB: SKY SPORT 5 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4458.m3u8
+
+#EXTINF:0, tvg-id="SetantaIrelandSport.uk" tvg-logo="setanta_sports1.png" tvg-name="GB: Setanta Sport"  group-title="United Kingdom",GB: Setanta Sport
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3583.m3u8
+
+#EXTINF:0, tvg-id="PremierSports.uk" tvg-logo="premier_sports.png" tvg-name="GB: Premiere Sport"  group-title="United Kingdom",GB: Premiere Sport
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3584.m3u8
+
+#EXTINF:0, tvg-id="EurosportHD.uk" tvg-logo="eurosport_fr_1_hd.png" tvg-name="GB: Eurosport 1 HD"  group-title="United Kingdom",GB: Eurosport 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1980.m3u8
+
+#EXTINF:0, tvg-id="Eurosport2UK.uk" tvg-logo="eurosport_fr_2_hd.png" tvg-name="GB: Eurosport 2 HD"  group-title="United Kingdom",GB: Eurosport 2 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1981.m3u8
+
+#EXTINF:0, tvg-id="BTSport1.uk" tvg-logo="bt_sport_1_hd.png" tvg-name="GB: BT Sports 1 HD"  group-title="United Kingdom",GB: BT Sports 1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1991.m3u8
+
+#EXTINF:0, tvg-id="BTSport2.uk" tvg-logo="bt_sport_2_hd.png" tvg-name="GB: BT Sports 2 HD"  group-title="United Kingdom",GB: BT Sports 2 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1992.m3u8
+
+#EXTINF:0, tvg-id="BTSportEur.uk" tvg-logo="bt_sport_europe_uk.png" tvg-name="GB: BT SPORTS EUROPE"  group-title="United Kingdom",GB: BT SPORTS EUROPE
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1965.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="bt_sport_extra_uk.png" tvg-name="GB: BT SPORTS EXTRA"  group-title="United Kingdom",GB: BT SPORTS EXTRA
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2682.m3u8
+
+#EXTINF:0, tvg-id="SkySportsF1.uk" tvg-logo="sky_uk_sports_f1_hd.png" tvg-name="GB: Sky Sport F1 HD"  group-title="United Kingdom",GB: Sky Sport F1 HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3603.m3u8
+
+#EXTINF:0, tvg-id="BTSportESPN.uk" tvg-logo="bt_sport_uk_espn.png" tvg-name="GB: ESPN HD"  group-title="United Kingdom",GB: ESPN HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2673.m3u8
+
+#EXTINF:0, tvg-id="SkyLiving.uk" tvg-logo="sky_uk_living_ie.png" tvg-name="GB: Sky Living"  group-title="United Kingdom",GB: Sky Living
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3567.m3u8
+
+#EXTINF:0, tvg-id="SkyArts1.uk" tvg-logo="Logo N/A" tvg-name="GB: Sky Arts 1"  group-title="United Kingdom",GB: Sky Arts 1
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1963.m3u8
+
+#EXTINF:0, tvg-id="Watch.uk" tvg-logo="watch_uktv_ie.png" tvg-name="GB: Watch"  group-title="United Kingdom",GB: Watch
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4014.m3u8
+
+#EXTINF:0, tvg-id="H2.uk" tvg-logo="history_2_uk.png" tvg-name="GB: H2"  group-title="United Kingdom",GB: H2
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3569.m3u8
+
+#EXTINF:0, tvg-id="Discovery.uk" tvg-logo="discovery_global_us.png" tvg-name="GB: Discovery"  group-title="United Kingdom",GB: Discovery
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1986.m3u8
+
+#EXTINF:0, tvg-id="NationalGeographic.uk" tvg-logo="nat_geo_us.png" tvg-name="GB: NATIONAL GEOGRAPHIC"  group-title="United Kingdom",GB: NATIONAL GEOGRAPHIC
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3561.m3u8
+
+#EXTINF:0, tvg-id="NatGeoWild.uk" tvg-logo="nat_geo_wild_us_hd.png" tvg-name="GB: National Geography Wild"  group-title="United Kingdom",GB: National Geography Wild
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1968.m3u8
+
+#EXTINF:0, tvg-id="DiscoveryTurbo.uk" tvg-logo="discovery_turbo_us.png" tvg-name="GB: Discovery Turbo"  group-title="United Kingdom",GB: Discovery Turbo
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3978.m3u8
+
+#EXTINF:0, tvg-id="DiscoveryScience.uk" tvg-logo="discovery_science_global.png" tvg-name="GB: Discovery Science HD"  group-title="United Kingdom",GB: Discovery Science HD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4069.m3u8
+
+#EXTINF:0, tvg-id="Investigation.uk" tvg-logo="investigation_discovery_us.png" tvg-name="GB: Discovery Investigation"  group-title="United Kingdom",GB: Discovery Investigation
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3982.m3u8
+
+#EXTINF:0, tvg-id="DiscoveryDMAX.uk" tvg-logo="dmax_se_asia.png" tvg-name="GB: Discovery World"  group-title="United Kingdom",GB: Discovery World
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2678.m3u8
+
+#EXTINF:0, tvg-id="AnimalPlanet.uk" tvg-logo="animal_planet_us.png" tvg-name="GB: Animal Planet"  group-title="United Kingdom",GB: Animal Planet
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2683.m3u8
+
+#EXTINF:0, tvg-id="DiscoveryHistory.uk" tvg-logo="discovery_history.png" tvg-name="GB: Discovery History"  group-title="United Kingdom",GB: Discovery History
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1985.m3u8
+
+#EXTINF:0, tvg-id="SkyLiving.uk" tvg-logo="sky_uk_living_ie.png" tvg-name="GB: Living"  group-title="United Kingdom",GB: Living
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1972.m3u8
+
+#EXTINF:0, tvg-id="GOLD.uk" tvg-logo="gold_uktv.png" tvg-name="GB: Gold"  group-title="United Kingdom",GB: Gold
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1977.m3u8
+
+#EXTINF:0, tvg-id="Dave.uk" tvg-logo="dave_uktv_ie.png" tvg-name="GB: Dave"  group-title="United Kingdom",GB: Dave
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1987.m3u8
+
+#EXTINF:0, tvg-id="DiscoveryDMAX.uk" tvg-logo="dmax_se_asia.png" tvg-name="GB: Dmax"  group-title="United Kingdom",GB: Dmax
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1983.m3u8
+
+#EXTINF:0, tvg-id="Boomerang.uk" tvg-logo="boomerang_global.png" tvg-name="GB: Bomerang"  group-title="United Kingdom",GB: Bomerang
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1962.m3u8
+
+#EXTINF:0, tvg-id="Disney.uk" tvg-logo="disney_channel_global.png" tvg-name="GB: Disney Channel"  group-title="United Kingdom",GB: Disney Channel
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/1984.m3u8
+
+#EXTINF:0, tvg-id="DisneyJunior.uk" tvg-logo="disney_junior_us.png" tvg-name="GB: Disney Junior"  group-title="United Kingdom",GB: Disney Junior
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3969.m3u8
+
+#EXTINF:0, tvg-id="DisneyXD.uk" tvg-logo="disney_xd_us.png" tvg-name="GB: Disney XD"  group-title="United Kingdom",GB: Disney XD
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2675.m3u8
+
+#EXTINF:0, tvg-id="CartoonNetwork.uk" tvg-logo="cartoon_network_global.png" tvg-name="GB: Cartoon NetWork"  group-title="United Kingdom",GB: Cartoon NetWork
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3967.m3u8
+
+#EXTINF:0, tvg-id="NickJunior.uk" tvg-logo="nick_jr_us.png" tvg-name="GB: Nick JR"  group-title="United Kingdom",GB: Nick JR
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3963.m3u8
+
+#EXTINF:0, tvg-id="tinypop.uk" tvg-logo="tiny_pop.png" tvg-name="GB: Tiny Pop"  group-title="United Kingdom",GB: Tiny Pop
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3976.m3u8
+
+#EXTINF:0, tvg-id="Nickelodeon.uk" tvg-logo="nickelodeon_us.png" tvg-name="GB: Nick"  group-title="United Kingdom",GB: Nick
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2669.m3u8
+
+#EXTINF:0, tvg-id="BoxNation.uk" tvg-logo="box_nation_uk.png" tvg-name="GB: Box Nation"  group-title="United Kingdom",GB: Box Nation
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/4010.m3u8
+
+#EXTINF:0, tvg-id="VH1UK.uk" tvg-logo="vh1_classic_europe.png" tvg-name="GB: Vh1 Classic"  group-title="United Kingdom",GB: Vh1 Classic
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/3943.m3u8
+
+#EXTINF:0, tvg-id="MTVMusic.uk," tvg-logo="mtv_music_uk.png" tvg-name="GB: MTV MUSIC"  group-title="United Kingdom",GB: MTV MUSIC
+http://portal.rapidiptv.com:8080/live/PAdmTz2A3M/84d22BPlxx/2670.m3u8
